@@ -1,5 +1,5 @@
 {
-	"contactEmailRot13" = "pt@sgm-media-com";
+	"contactEmailRot13" = "mail@ptricktoelle.de";
 	contactName = "Patrick Toelle";
 	description = "Export semicolon-separated list of selected mails to clipboard";
 	name = "CSV Export";
