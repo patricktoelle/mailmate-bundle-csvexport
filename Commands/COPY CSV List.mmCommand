@@ -1,0 +1,9 @@
+{
+	name = "COPY CSV List";
+	input = formatted;
+	formatString = "${date};${from.address};${to.address};${subject}";
+	separatorString = "\\n";
+	executionMode = multipleMessages;
+	command = '#!/bin/bash\nsort -f|pbcopy\n';
+	uuid = "2536099C-F96F-41B8-AA9D-F70698CD1BA4";
+}

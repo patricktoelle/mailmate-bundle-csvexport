@@ -1,0 +1,7 @@
+{
+	"contactEmailRot13" = "pt@sgm-media-com";
+	contactName = "Patrick Toelle";
+	description = "Export semicolon-separated list of selected mails to clipboard";
+	name = "CSV Export";
+	uuid = "8CD18E79-8A07-4A22-8366-7F22DFAFC1E9";
+}
